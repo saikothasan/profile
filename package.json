@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@react-three/fiber": "^9.0.0",  // Update to latest 9.x.x
+    "@react-three/fiber": "^9.0.0",
     "@react-three/drei": "^9.120.6",
     "react-icons": "^5.4.0",
     "framer-motion": "^11.16.2",
